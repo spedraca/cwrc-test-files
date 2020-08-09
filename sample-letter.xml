@@ -45,7 +45,7 @@
 	"@id": "https://raw.githubusercontent.com/spedraca/cwrc-test-files/master/sample-letter.xml?correction_annotation_20200809184250198",
 	"@type": "oa:Annotation",
 	"dcterms:created": "2020-08-09T22:42:50.198Z",
-	"dcterms:issued": "2020-08-09T22:46:29.484Z",
+	"dcterms:issued": "2020-08-09T22:46:44.118Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/lucaju",
 		"@type": [
@@ -120,7 +120,7 @@
 	"@id": "https://raw.githubusercontent.com/spedraca/cwrc-test-files/master/sample-letter.xml?date_annotation_20200809184250232",
 	"@type": "oa:Annotation",
 	"dcterms:created": "2020-08-09T22:42:50.232Z",
-	"dcterms:issued": "2020-08-09T22:46:29.489Z",
+	"dcterms:issued": "2020-08-09T22:46:44.119Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/lucaju",
 		"@type": [
@@ -194,7 +194,7 @@
 	"@id": "https://raw.githubusercontent.com/spedraca/cwrc-test-files/master/sample-letter.xml?person_annotation_20200809184250238",
 	"@type": "oa:Annotation",
 	"dcterms:created": "2020-08-09T22:42:50.238Z",
-	"dcterms:issued": "2020-08-09T22:46:29.490Z",
+	"dcterms:issued": "2020-08-09T22:46:44.119Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/lucaju",
 		"@type": [
@@ -270,7 +270,7 @@
 	"@id": "https://raw.githubusercontent.com/spedraca/cwrc-test-files/master/sample-letter.xml?person_annotation_20200809184250240",
 	"@type": "oa:Annotation",
 	"dcterms:created": "2020-08-09T22:42:50.240Z",
-	"dcterms:issued": "2020-08-09T22:46:29.490Z",
+	"dcterms:issued": "2020-08-09T22:46:44.119Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/lucaju",
 		"@type": [
@@ -346,7 +346,7 @@
 	"@id": "https://raw.githubusercontent.com/spedraca/cwrc-test-files/master/sample-letter.xml?place_annotation_20200809184250249",
 	"@type": "oa:Annotation",
 	"dcterms:created": "2020-08-09T22:42:50.249Z",
-	"dcterms:issued": "2020-08-09T22:46:29.491Z",
+	"dcterms:issued": "2020-08-09T22:46:44.119Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/lucaju",
 		"@type": [
@@ -422,7 +422,7 @@
 	"@id": "https://raw.githubusercontent.com/spedraca/cwrc-test-files/master/sample-letter.xml?place_annotation_20200809184250256",
 	"@type": "oa:Annotation",
 	"dcterms:created": "2020-08-09T22:42:50.256Z",
-	"dcterms:issued": "2020-08-09T22:46:29.491Z",
+	"dcterms:issued": "2020-08-09T22:46:44.119Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/lucaju",
 		"@type": [
@@ -498,7 +498,7 @@
 	"@id": "https://raw.githubusercontent.com/spedraca/cwrc-test-files/master/sample-letter.xml?place_annotation_20200809184250259",
 	"@type": "oa:Annotation",
 	"dcterms:created": "2020-08-09T22:42:50.259Z",
-	"dcterms:issued": "2020-08-09T22:46:29.491Z",
+	"dcterms:issued": "2020-08-09T22:46:44.120Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/lucaju",
 		"@type": [
@@ -558,7 +558,7 @@
 					<dateline>
 						<date cert="high" when="1935-10-21">21.10.35</date>
 					</dateline>
-					<salute>Dearest -TEST Luciano</salute>
+					<salute>Dearest -TEST Luciano 2</salute>
 				</opener><p>I have had no letter from you since I left <placeName cert="high" ref="http://www.geonames.org/2673722">Stockholm</placeName>, but I had a nice one from John in an envelope you had sent him. I had sent him one addressed to Copenhagen but he hadn't used it.</p><p>When I reached Oslo yesterday evening, Brynjulf Bull should have been there to meet me, but wasn't. He is not on the telephone, so I took a taxi to his address, which turned out to be a students' club with no one about on Sundays, so I went to a hotel feeling rather non-plussed. But presently he turned up. He had got the <pb n="2"/> time of my arrival wrong, and 
 						<choice><sic>when</sic><corr>when</corr></choice>
 					he had found he had missed me he phoned to every hotel in Oslo till he hit on the right one. He left me at 10, and then I had to do a Sunday Referee article. Today my journey lasts from 9 till 9 - fortunately one of the most beautiful railway journeys in the world. Tomorrow I lecture at <placeName cert="high" ref="http://www.geonames.org/6548528">Bergen</placeName> to the Anglo-Norwegian Society. Next day I go back to Oslo, lecture there Fri. and Sat. and then start for home via Bergen.</p><figure/>
