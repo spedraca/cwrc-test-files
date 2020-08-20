@@ -42,10 +42,10 @@
 		"schema": "http://schema.org/",
 		"xsd": "http://www.w3.org/2001/XMLSchema#"
 	},
-	"@id": "https://raw.githubusercontent.com/spedraca/cwrc-test-files/master/sample-letter.xml?correction_annotation_20200820183452914",
+	"@id": "https://raw.githubusercontent.com/spedraca/cwrc-test-files/master/sample-letter.xml?correction_annotation_20200820183525907",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2020-08-20T22:34:52.914Z",
-	"dcterms:issued": "2020-08-20T22:35:07.908Z",
+	"dcterms:created": "2020-08-20T22:35:25.907Z",
+	"dcterms:issued": "2020-08-20T22:36:01.234Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/lucaju",
 		"@type": [
@@ -57,7 +57,7 @@
 	},
 	"oa:motivatedBy": "oa:editing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/spedraca/cwrc-test-files/master/sample-letter.xml?correction_annotation_20200820183452914#Target",
+		"@id": "https://raw.githubusercontent.com/spedraca/cwrc-test-files/master/sample-letter.xml?correction_annotation_20200820183525907#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/spedraca/cwrc-test-files/master/sample-letter.xml",
@@ -71,7 +71,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/spedraca/cwrc-test-files/master/sample-letter.xml?correction_annotation_20200820183452914#Selector",
+			"@id": "https://raw.githubusercontent.com/spedraca/cwrc-test-files/master/sample-letter.xml?correction_annotation_20200820183525907#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[2]/choice"
 		}
@@ -117,10 +117,10 @@
 		"schema": "http://schema.org/",
 		"xsd": "http://www.w3.org/2001/XMLSchema#"
 	},
-	"@id": "https://raw.githubusercontent.com/spedraca/cwrc-test-files/master/sample-letter.xml?date_annotation_20200820183452917",
+	"@id": "https://raw.githubusercontent.com/spedraca/cwrc-test-files/master/sample-letter.xml?date_annotation_20200820183525918",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2020-08-20T22:34:52.917Z",
-	"dcterms:issued": "2020-08-20T22:35:07.912Z",
+	"dcterms:created": "2020-08-20T22:35:25.918Z",
+	"dcterms:issued": "2020-08-20T22:36:01.235Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/lucaju",
 		"@type": [
@@ -132,7 +132,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/spedraca/cwrc-test-files/master/sample-letter.xml?date_annotation_20200820183452917#Target",
+		"@id": "https://raw.githubusercontent.com/spedraca/cwrc-test-files/master/sample-letter.xml?date_annotation_20200820183525918#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/spedraca/cwrc-test-files/master/sample-letter.xml",
@@ -146,7 +146,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/spedraca/cwrc-test-files/master/sample-letter.xml?date_annotation_20200820183452917#Selector",
+			"@id": "https://raw.githubusercontent.com/spedraca/cwrc-test-files/master/sample-letter.xml?date_annotation_20200820183525918#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/opener/dateline/date"
 		}
@@ -191,10 +191,10 @@
 		"schema": "http://schema.org/",
 		"xsd": "http://www.w3.org/2001/XMLSchema#"
 	},
-	"@id": "https://raw.githubusercontent.com/spedraca/cwrc-test-files/master/sample-letter.xml?person_annotation_20200820183452919",
+	"@id": "https://raw.githubusercontent.com/spedraca/cwrc-test-files/master/sample-letter.xml?person_annotation_20200820183525921",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2020-08-20T22:34:52.919Z",
-	"dcterms:issued": "2020-08-20T22:35:07.913Z",
+	"dcterms:created": "2020-08-20T22:35:25.921Z",
+	"dcterms:issued": "2020-08-20T22:36:01.235Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/lucaju",
 		"@type": [
@@ -206,7 +206,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/spedraca/cwrc-test-files/master/sample-letter.xml?person_annotation_20200820183452919#Target",
+		"@id": "https://raw.githubusercontent.com/spedraca/cwrc-test-files/master/sample-letter.xml?person_annotation_20200820183525921#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/spedraca/cwrc-test-files/master/sample-letter.xml",
@@ -220,7 +220,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/spedraca/cwrc-test-files/master/sample-letter.xml?person_annotation_20200820183452919#Selector",
+			"@id": "https://raw.githubusercontent.com/spedraca/cwrc-test-files/master/sample-letter.xml?person_annotation_20200820183525921#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/head/title/persName"
 		}
@@ -267,10 +267,10 @@
 		"schema": "http://schema.org/",
 		"xsd": "http://www.w3.org/2001/XMLSchema#"
 	},
-	"@id": "https://raw.githubusercontent.com/spedraca/cwrc-test-files/master/sample-letter.xml?person_annotation_20200820183452928",
+	"@id": "https://raw.githubusercontent.com/spedraca/cwrc-test-files/master/sample-letter.xml?person_annotation_20200820183525925",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2020-08-20T22:34:52.928Z",
-	"dcterms:issued": "2020-08-20T22:35:07.914Z",
+	"dcterms:created": "2020-08-20T22:35:25.925Z",
+	"dcterms:issued": "2020-08-20T22:36:01.235Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/lucaju",
 		"@type": [
@@ -282,7 +282,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/spedraca/cwrc-test-files/master/sample-letter.xml?person_annotation_20200820183452928#Target",
+		"@id": "https://raw.githubusercontent.com/spedraca/cwrc-test-files/master/sample-letter.xml?person_annotation_20200820183525925#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/spedraca/cwrc-test-files/master/sample-letter.xml",
@@ -296,7 +296,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/spedraca/cwrc-test-files/master/sample-letter.xml?person_annotation_20200820183452928#Selector",
+			"@id": "https://raw.githubusercontent.com/spedraca/cwrc-test-files/master/sample-letter.xml?person_annotation_20200820183525925#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/closer/signed/persName/persName"
 		}
@@ -343,10 +343,10 @@
 		"schema": "http://schema.org/",
 		"xsd": "http://www.w3.org/2001/XMLSchema#"
 	},
-	"@id": "https://raw.githubusercontent.com/spedraca/cwrc-test-files/master/sample-letter.xml?place_annotation_20200820183452932",
+	"@id": "https://raw.githubusercontent.com/spedraca/cwrc-test-files/master/sample-letter.xml?place_annotation_20200820183525929",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2020-08-20T22:34:52.932Z",
-	"dcterms:issued": "2020-08-20T22:35:07.914Z",
+	"dcterms:created": "2020-08-20T22:35:25.929Z",
+	"dcterms:issued": "2020-08-20T22:36:01.236Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/lucaju",
 		"@type": [
@@ -358,7 +358,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/spedraca/cwrc-test-files/master/sample-letter.xml?place_annotation_20200820183452932#Target",
+		"@id": "https://raw.githubusercontent.com/spedraca/cwrc-test-files/master/sample-letter.xml?place_annotation_20200820183525929#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/spedraca/cwrc-test-files/master/sample-letter.xml",
@@ -372,7 +372,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/spedraca/cwrc-test-files/master/sample-letter.xml?place_annotation_20200820183452932#Selector",
+			"@id": "https://raw.githubusercontent.com/spedraca/cwrc-test-files/master/sample-letter.xml?place_annotation_20200820183525929#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/opener/note/p[3]/placeName"
 		}
@@ -419,10 +419,10 @@
 		"schema": "http://schema.org/",
 		"xsd": "http://www.w3.org/2001/XMLSchema#"
 	},
-	"@id": "https://raw.githubusercontent.com/spedraca/cwrc-test-files/master/sample-letter.xml?place_annotation_20200820183452935",
+	"@id": "https://raw.githubusercontent.com/spedraca/cwrc-test-files/master/sample-letter.xml?place_annotation_20200820183525931",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2020-08-20T22:34:52.935Z",
-	"dcterms:issued": "2020-08-20T22:35:07.914Z",
+	"dcterms:created": "2020-08-20T22:35:25.931Z",
+	"dcterms:issued": "2020-08-20T22:36:01.236Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/lucaju",
 		"@type": [
@@ -434,7 +434,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/spedraca/cwrc-test-files/master/sample-letter.xml?place_annotation_20200820183452935#Target",
+		"@id": "https://raw.githubusercontent.com/spedraca/cwrc-test-files/master/sample-letter.xml?place_annotation_20200820183525931#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/spedraca/cwrc-test-files/master/sample-letter.xml",
@@ -448,7 +448,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/spedraca/cwrc-test-files/master/sample-letter.xml?place_annotation_20200820183452935#Selector",
+			"@id": "https://raw.githubusercontent.com/spedraca/cwrc-test-files/master/sample-letter.xml?place_annotation_20200820183525931#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[2]/placeName"
 		}
@@ -495,10 +495,10 @@
 		"schema": "http://schema.org/",
 		"xsd": "http://www.w3.org/2001/XMLSchema#"
 	},
-	"@id": "https://raw.githubusercontent.com/spedraca/cwrc-test-files/master/sample-letter.xml?place_annotation_20200820183452938",
+	"@id": "https://raw.githubusercontent.com/spedraca/cwrc-test-files/master/sample-letter.xml?place_annotation_20200820183525935",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2020-08-20T22:34:52.938Z",
-	"dcterms:issued": "2020-08-20T22:35:07.914Z",
+	"dcterms:created": "2020-08-20T22:35:25.935Z",
+	"dcterms:issued": "2020-08-20T22:36:01.236Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/lucaju",
 		"@type": [
@@ -510,7 +510,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/spedraca/cwrc-test-files/master/sample-letter.xml?place_annotation_20200820183452938#Target",
+		"@id": "https://raw.githubusercontent.com/spedraca/cwrc-test-files/master/sample-letter.xml?place_annotation_20200820183525935#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/spedraca/cwrc-test-files/master/sample-letter.xml",
@@ -524,7 +524,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/spedraca/cwrc-test-files/master/sample-letter.xml?place_annotation_20200820183452938#Selector",
+			"@id": "https://raw.githubusercontent.com/spedraca/cwrc-test-files/master/sample-letter.xml?place_annotation_20200820183525935#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/placeName"
 		}
@@ -548,7 +548,7 @@
 		<body>
 			<div type="letter">
 				<head>
-					<title>Sample Letter - Bertrand Russell to <persName cert="low" ref="279399399">Patricia Spence</persName> - October 21, 1935 -0909</title></head>
+					<title>Sample Letter - Bertrand Russell to <persName cert="low" ref="279399399">Patricia Spence</persName> - October 21, 1935 -2021</title></head>
 				<opener>
 					<note>
 						<p>Bad writing due to shaky train</p><p>In train</p><p>
