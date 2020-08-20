@@ -45,7 +45,7 @@
 	"@id": "https://raw.githubusercontent.com/spedraca/cwrc-test-files/master/sample-letter.xml?correction_annotation_20200820183525907",
 	"@type": "oa:Annotation",
 	"dcterms:created": "2020-08-20T22:35:25.907Z",
-	"dcterms:issued": "2020-08-20T22:35:35.327Z",
+	"dcterms:issued": "2020-08-20T22:36:11.993Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/lucaju",
 		"@type": [
@@ -120,7 +120,7 @@
 	"@id": "https://raw.githubusercontent.com/spedraca/cwrc-test-files/master/sample-letter.xml?date_annotation_20200820183525918",
 	"@type": "oa:Annotation",
 	"dcterms:created": "2020-08-20T22:35:25.918Z",
-	"dcterms:issued": "2020-08-20T22:35:35.336Z",
+	"dcterms:issued": "2020-08-20T22:36:11.994Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/lucaju",
 		"@type": [
@@ -194,7 +194,7 @@
 	"@id": "https://raw.githubusercontent.com/spedraca/cwrc-test-files/master/sample-letter.xml?person_annotation_20200820183525921",
 	"@type": "oa:Annotation",
 	"dcterms:created": "2020-08-20T22:35:25.921Z",
-	"dcterms:issued": "2020-08-20T22:35:35.337Z",
+	"dcterms:issued": "2020-08-20T22:36:11.994Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/lucaju",
 		"@type": [
@@ -270,7 +270,7 @@
 	"@id": "https://raw.githubusercontent.com/spedraca/cwrc-test-files/master/sample-letter.xml?person_annotation_20200820183525925",
 	"@type": "oa:Annotation",
 	"dcterms:created": "2020-08-20T22:35:25.925Z",
-	"dcterms:issued": "2020-08-20T22:35:35.338Z",
+	"dcterms:issued": "2020-08-20T22:36:11.994Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/lucaju",
 		"@type": [
@@ -346,7 +346,7 @@
 	"@id": "https://raw.githubusercontent.com/spedraca/cwrc-test-files/master/sample-letter.xml?place_annotation_20200820183525929",
 	"@type": "oa:Annotation",
 	"dcterms:created": "2020-08-20T22:35:25.929Z",
-	"dcterms:issued": "2020-08-20T22:35:35.338Z",
+	"dcterms:issued": "2020-08-20T22:36:11.994Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/lucaju",
 		"@type": [
@@ -422,7 +422,7 @@
 	"@id": "https://raw.githubusercontent.com/spedraca/cwrc-test-files/master/sample-letter.xml?place_annotation_20200820183525931",
 	"@type": "oa:Annotation",
 	"dcterms:created": "2020-08-20T22:35:25.931Z",
-	"dcterms:issued": "2020-08-20T22:35:35.339Z",
+	"dcterms:issued": "2020-08-20T22:36:11.995Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/lucaju",
 		"@type": [
@@ -498,7 +498,7 @@
 	"@id": "https://raw.githubusercontent.com/spedraca/cwrc-test-files/master/sample-letter.xml?place_annotation_20200820183525935",
 	"@type": "oa:Annotation",
 	"dcterms:created": "2020-08-20T22:35:25.935Z",
-	"dcterms:issued": "2020-08-20T22:35:35.340Z",
+	"dcterms:issued": "2020-08-20T22:36:11.995Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/lucaju",
 		"@type": [
@@ -548,7 +548,7 @@
 		<body>
 			<div type="letter">
 				<head>
-					<title>Sample Letter - Bertrand Russell to <persName cert="low" ref="279399399">Patricia Spence</persName> - October 21, 1935 -2020</title></head>
+					<title>Sample Letter - Bertrand Russell to <persName cert="low" ref="279399399">Patricia Spence</persName> - October 21, 1935 -2021</title></head>
 				<opener>
 					<note>
 						<p>Bad writing due to shaky train</p><p>In train</p><p>
